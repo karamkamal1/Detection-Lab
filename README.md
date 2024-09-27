@@ -1,4 +1,4 @@
-# Active Directory & Detection Lab
+# Installation and Configuration Of Splunk On Local Network Lab.
 
 ## Objective
 [Brief Objective - Remove this afterwards]
